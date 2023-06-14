@@ -1,1 +1,1 @@
-# Class
+# BOM-Class
